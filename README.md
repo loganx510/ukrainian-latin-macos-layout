@@ -10,6 +10,6 @@ https://www.youtube.com/watch?v=nHeE2x2UNw4
 
 <img width="199" alt="image" src="https://user-images.githubusercontent.com/30189172/223021844-585ae762-8c15-4bc9-947d-03f5628c6878.png">
 
-Dlja vstanovlennja vykorystovujte DMG fajl
-Perezavantažte MacOS ta oberit' novu rozkladku u rozdili "Other"
+- Dlja vstanovlennja vykorystovujte DMG fajl
+- Perezavantažte MacOS ta oberit' novu rozkladku u rozdili "Other"
 
